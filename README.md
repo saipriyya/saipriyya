@@ -25,9 +25,10 @@ I am a **B.Tech Graduate (2025)** in Computer Science, specializing in **Artific
 - Focused on data preprocessing and rigorous validation to ensure high-integrity results.
 
 ---
-
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Email](mailto:sai263pri@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/n-sai-priya-b93814302) | [Email](mailto:sai263pri@gmail.com)
+
+
 
 ---
 *“Precision in data leads to excellence in engineering.”*
