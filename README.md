@@ -12,10 +12,14 @@ I am a **B.Tech Graduate (2025)** in Computer Science, specializing in **Artific
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
+![Technical Troubleshooting](https://img.shields.io/badge/Troubleshooting-FFA500?style=for-the-badge&logo=buildkite&logoColor=white)
+
 
 - **AI/ML:** Supervised/Unsupervised Learning, Named Entity Recognition (NER).
 - **Core CS:** Data Structures & Algorithms (DSA), OOPS.
-- **Tools:** Software Testing (SDLC/STLC), Root Cause Analysis, Data Validation.
+- **Tools:** Software Testing (SDLC/STLC), Root Cause Analysis, Google Workspace Admin, Data Validation.
+
 
 ---
 
